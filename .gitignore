@@ -133,3 +133,6 @@ dmypy.json
 
 # For chromedriver
 *.exe
+
+# For Output Dir
+output/

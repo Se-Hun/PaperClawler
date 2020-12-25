@@ -10,3 +10,6 @@ chromedriver.exe 파일(windows의 경우)을 `/crhomedriver` 경로에 저장�
 ## 크롤링을 위한 라이브러리 설치
 
 * `pip install selenium`
+* `pip install tqdm`
+* `pip install pandas`
+* `pip install openpyxl`
