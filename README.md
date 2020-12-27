@@ -17,3 +17,7 @@ Save the chromedriver.exe(in the case of windows) file in the path of `/chromedr
 * `pip install tqdm`
 * `pip install pandas`
 * `pip install openpyxl`
+
+## Run
+`python run_crawler.py --year CONFERENCE_YEAR --output_dir OUTPUT_DIR_PATH --chrome_driver_path CHROME_DRIVER_PATH`
+
