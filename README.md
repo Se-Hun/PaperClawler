@@ -1,13 +1,13 @@
-# PaperClawler
-논문 크롤링하기
+# PaperCrawler
+PaperCrawler is 
 
-## ChromeDriver 설치
+## To install ChromeDriver
 
-[Chrome Web Driver](https://chromedriver.chromium.org/) 링크에서 자신의 운영체제와 Chrome 웹 브라우저의 버전에 맞는 crhomedriver를 설치하고
+From [Chrome Web Driver](https://chromedriver.chromium.org/) link, Install the chromedriver appropriate for your operating system and the version of the Chrome web browser,
 
-chromedriver.exe 파일(windows의 경우)을 `/crhomedriver` 경로에 저장한다.
+Save the chromedriver.exe(in the case of windows) file in the path of `/chromedriver`.
 
-## 크롤링을 위한 라이브러리 설치
+## Install libraries for crawling
 
 * `pip install selenium`
 * `pip install tqdm`
