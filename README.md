@@ -1,5 +1,9 @@
 # PaperCrawler
-PaperCrawler is 
+The PaperCrawler is for crawling papers of ACLAnthology.
+
+This version supports crawling of titles, authors, links, and years of papers published in Top 4 NLP conference(ACL, EMNLP, CONLL, COLING).
+
+If you wanna other attributes or conferences, please modify my code and make a pull request. Thank you!
 
 ## To install ChromeDriver
 
